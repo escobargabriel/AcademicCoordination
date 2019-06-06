@@ -1,0 +1,31 @@
+Este é um programa feito para simular a coordenação acadêmica.
+
+Neste programa foi utilizado o compilador blue-j para implementar.
+
+Para executar o programa é preciso que esteja instalada e funcionando a plataforma java e a JVM (Java virtual machine).
+
+Existe o arquivo ".jar" que pode ser executado, caso este não funcione pode ser executado utilizando um compilador da 
+linguagem java (NetBeans,Eclipse,Blue-j).
+Dentro dos arquivos ".java" ou classes, existem a classe programaPrincipal que contém o método "main()" que pode ser 
+utilizado para rodar o programa.
+
+No cadastramento de disciplinas na lista será solicitado ao usuário o código que identifca a relação da disciplina com o curso.
+Os códigos que identificam os cursos aos quais as disciplinas pertencem seguem abaixo:
+
+1 - ciência da computação
+2 - engenharia de software
+3 - engenharia civil
+4 - engenharia mecanica
+5 - engenharia elétrica
+6 - engenharia agricola
+7 - engenharia de telecomunicações
+8 - Ciencia da computacao e engenharia de software
+9 - ciencia da computação engenharia eletrica
+10 - engenharia eletrica,engenharia telecom,engenharia mecanica,engenharia agricola,engenharia civil
+11 - engenharia eletrica,engenharia telecom 
+12 - ciencia da computacao,engenharia eletrica,engenharia mecanica,engenharia civil,engeharia agricola, engenharia telecom
+13 - todos cursos 
+
+
+Em caso de qualquer dúvida mande e-mail para escobarvasques@gmail.com.
+
